@@ -1,0 +1,9 @@
+h1{
+    font-family: Impact;
+}
+.quote i:first-child{
+    top: -10px;
+}
+.quote i:last-child{
+    bottom: -10px;
+}
